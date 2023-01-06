@@ -17,7 +17,7 @@
  * Modulos usando classes
  */
 
-const ModuloClass = require('./moduloClasse.js'); //Nome da Const igual ao da classe
+const ModuloClass = require('./moduloClasse.js'); //Nome da Const tem que ser igual ao da classe
 
-new ModuloClass();
+new ModuloClass(); //Invocando o modulo
 
